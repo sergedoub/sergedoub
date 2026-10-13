@@ -1,6 +1,6 @@
 # Hi, I'm Serge
 
-I'm a product builder with 15 years of Product Management experience and a passion for AI, agents and the future of work. I'm currently helping teams through fractional and consulting work. Together we find valuable AI opportunities, shape useful products, and build automations for better outcomes. Previously, I was a VP at Upwork, Rakuten, ID.me and let product at other startups in Bay Area.
+I'm a product builder with 15 years of product management experience and a passion for AI agents and the future of work. Previously, I was a VP at Upwork, Rakuten, ID.me and let product at other startups in Bay Area. I'm currently helping teams through fractional and consulting work. Together we find valuable AI opportunities, shape useful products, and build automations for better outcomes.
 
 ## What I'm working on
 
