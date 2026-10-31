@@ -18,23 +18,5 @@ Check out my content on [LinkedIn](https://www.linkedin.com/in/sergedoubinski/re
 | Oct 21 | <img src="assets/feed-icons/recursive.png" width="24" height="24" alt=""> [Recursive Flint](https://recursive.com/updates/introducing-recursive-flint) | Local coding-model inference testing |
 | Oct 20 | <img src="assets/feed-icons/mobbin.svg" width="24" height="24" alt=""> [Mobbin](https://mobbin.com/) | Design references for native Home and Chat screens |
 | Oct 17 | [LINE Messaging API](https://developers.line.biz/en/docs/messaging-api/) | ChatGPT bot integration and reply testing |
-| Oct 17 | [pstack verification skills](https://github.com/backnotprop/pstack) | Generating and testing app verification workflows |
-| Oct 14 | <img src="assets/feed-icons/jev.png" width="24" height="24" alt=""> [Jev by TypeSafe](https://typesafe.ai/) | Structured scoring and model comparison |
-| Oct 14 | <img src="assets/feed-icons/temporal.svg" width="24" height="24" alt=""> [Temporal](https://temporal.io/) | AI workflow orchestration and crash recovery |
-| Oct 14 | <img src="assets/feed-icons/bright-data.png" width="24" height="24" alt=""> [Bright Data](https://brightdata.com/products/web-scraper/jobs-scraper) | Automated job-listing data collection |
-| Oct 13 | <img src="assets/feed-icons/linear.svg" width="24" height="24" alt=""> [Linear](https://linear.app/) | Consolidating project and pipeline tracking |
-| Oct 11 | <img src="assets/feed-icons/clerk.ico" width="24" height="24" alt=""> [Clerk](https://clerk.com/) | Native iOS sign-in and guest account migration |
-| Oct 7 | [Spotifast](https://spotifast.rocks/) | AI-assisted native app customization |
-| Oct 6 | <img src="assets/feed-icons/thumbnail-maker.png" width="24" height="24" alt=""> [Thumbnail Maker plugin](https://github.com/Fasih38/plugin-pages/blob/main/README.md) | Video thumbnail concepts and editing |
-| Oct 2 | <img src="assets/feed-icons/impeccable.svg" width="24" height="24" alt=""> [Impeccable skill](https://impeccable.style/) | Testing design skills for interactive research reports |
-| Oct 2 | <img src="assets/feed-icons/govuk.png" width="24" height="24" alt=""> [GOV.UK style skill](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/) | Testing plain-language guidance for AI reports |
-| Sep 30 | <img src="assets/feed-icons/tldraw.png" width="24" height="24" alt=""> [tldraw plugin](https://tldraw.dev/sdk-features/embed-shape) | Prototyping screenflows with HTML embeds |
-| Sep 28 | <img src="assets/feed-icons/elevenlabs.svg" width="24" height="24" alt=""> [Elevenlabs](https://elevenlabs.io/) | v4 new voice model testing |
-| Sep 25 | <img src="assets/feed-icons/exa.svg" width="24" height="24" alt=""> [Exa Ultra Agents](https://exa.ai/blog/exa-agent-ultra) | Product discovery |
-| Sep 20 | <img src="assets/feed-icons/fal.png" width="24" height="24" alt=""> [fal](https://fal.ai/) | Virtual try-on benchmarking |
-| Sep 20 | <img src="assets/feed-icons/hugging-face.svg" width="24" height="24" alt=""> [Hugging Face](https://huggingface.co/) | Model testing |
-| Sep 18 | <img src="assets/feed-icons/cloudflare.png" width="24" height="24" alt=""> [Cloudflare](https://www.cloudflare.com/) | Private app hosting |
-| Sep 17 | <img src="assets/feed-icons/fish-audio.png" width="24" height="24" alt=""> [Fish Audio](https://fish.audio/) | Voice narration |
-| Sep 16 | <img src="assets/feed-icons/supabase.png" width="24" height="24" alt=""> [Supabase](https://supabase.com/) | Database access controls |
 
 [Website](https://www.signhill.com/serge/) · [Writing](https://www.signhill.com/serge/writing/) · [Get in touch](mailto:serge@signhill.com)
