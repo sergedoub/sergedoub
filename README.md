@@ -10,6 +10,21 @@ Check out my content on [LinkedIn](https://www.linkedin.com/in/sergedoubinski/re
 
 | Date | Tool | What I'm using it for |
 | --- | --- | --- |
+| Oct 30 | <img src="assets/feed-icons/amp.png" width="24" height="24" alt=""> [Amp self-hosted Orbs](https://ampcode.com/docs/orbs/self-hosted) | Running coding experiments on my own Linux host |
+| Oct 30 | <img src="assets/feed-icons/omarchy.png" width="24" height="24" alt=""> [Omarchy](https://omarchy.org/) | Linux development environment and remote workflows |
+| Oct 30 | <img src="assets/feed-icons/treg.svg" width="24" height="24" alt=""> [Treg](https://treg.to/) | Comparing data-enrichment providers |
+| Oct 27 | <img src="assets/feed-icons/amp.png" width="24" height="24" alt=""> [Amp](https://ampcode.com/) | Setting up local agent execution on macOS |
+| Oct 21 | <img src="assets/feed-icons/ollama.png" width="24" height="24" alt=""> [Ollama](https://ollama.com/) | Running open models locally on Apple Silicon |
+| Oct 21 | <img src="assets/feed-icons/recursive.png" width="24" height="24" alt=""> [Recursive Flint](https://recursive.com/updates/introducing-recursive-flint) | Local coding-model inference testing |
+| Oct 20 | <img src="assets/feed-icons/mobbin.svg" width="24" height="24" alt=""> [Mobbin](https://mobbin.com/) | Design references for native Home and Chat screens |
+| Oct 17 | [LINE Messaging API](https://developers.line.biz/en/docs/messaging-api/) | ChatGPT bot integration and reply testing |
+| Oct 17 | [pstack verification skills](https://github.com/backnotprop/pstack) | Generating and testing app verification workflows |
+| Oct 14 | <img src="assets/feed-icons/jev.png" width="24" height="24" alt=""> [Jev by TypeSafe](https://typesafe.ai/) | Structured scoring and model comparison |
+| Oct 14 | <img src="assets/feed-icons/temporal.svg" width="24" height="24" alt=""> [Temporal](https://temporal.io/) | AI workflow orchestration and crash recovery |
+| Oct 14 | <img src="assets/feed-icons/bright-data.png" width="24" height="24" alt=""> [Bright Data](https://brightdata.com/products/web-scraper/jobs-scraper) | Automated job-listing data collection |
+| Oct 13 | <img src="assets/feed-icons/linear.svg" width="24" height="24" alt=""> [Linear](https://linear.app/) | Consolidating project and pipeline tracking |
+| Oct 11 | <img src="assets/feed-icons/clerk.ico" width="24" height="24" alt=""> [Clerk](https://clerk.com/) | Native iOS sign-in and guest account migration |
+| Oct 7 | [Spotifast](https://spotifast.rocks/) | AI-assisted native app customization |
 | Oct 6 | <img src="assets/feed-icons/thumbnail-maker.png" width="24" height="24" alt=""> [Thumbnail Maker plugin](https://github.com/Fasih38/plugin-pages/blob/main/README.md) | Video thumbnail concepts and editing |
 | Oct 2 | <img src="assets/feed-icons/impeccable.svg" width="24" height="24" alt=""> [Impeccable skill](https://impeccable.style/) | Testing design skills for interactive research reports |
 | Oct 2 | <img src="assets/feed-icons/govuk.png" width="24" height="24" alt=""> [GOV.UK style skill](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/) | Testing plain-language guidance for AI reports |
