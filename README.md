@@ -10,13 +10,13 @@ Check out my content on [LinkedIn](https://www.linkedin.com/in/sergedoubinski/re
 
 | Date | Tool | What I'm using it for |
 | --- | --- | --- |
-| Nov 7 | <img src="assets/feed-icons/openai.png" width="24" height="24" alt=""> [OpenAI image generation](https://developers.openai.com/api/docs/guides/image-generation) | Generating app icons and connected map artwork |
-| Nov 7 | <img src="assets/feed-icons/apple.svg" width="24" height="24" alt=""> [TestFlight](https://developer.apple.com/testflight/) | Delivering iOS beta builds for device testing |
-| Nov 6 | <img src="assets/feed-icons/grok.png" width="24" height="24" alt=""> [Grok](https://grok.com/) | Researching app icon design practices on X |
-| Nov 6 | <img src="assets/feed-icons/tailscale.png" width="24" height="24" alt=""> [Tailscale](https://tailscale.com/) | Private app previews across Mac and iPhone |
+| Nov 7 | <img src="assets/feed-icons/temporal.svg" width="24" height="24" alt=""> [Temporal self-hosted](https://docs.temporal.io/self-hosted-guide/deployment) | Durable check-in delivery and tile generation in Achieve |
+| Nov 7 | <img src="assets/feed-icons/cloudflare.png" width="24" height="24" alt=""> [Cloudflare Tunnel + Access](https://developers.cloudflare.com/cloudflare-one/) | Private service routing and protected workflow dashboards |
 | Oct 31 | <img src="assets/feed-icons/treg.svg" width="24" height="24" alt=""> [Treg REA growth skill](https://treg.to/skills/rea-growth/SKILL.md) | Researching acquisition channels and growth experiments |
 | Oct 30 | <img src="assets/feed-icons/amp.png" width="24" height="24" alt=""> [Amp self-hosted Orbs](https://ampcode.com/docs/orbs/self-hosted) | Running coding experiments on my own Linux host |
 | Oct 30 | <img src="assets/feed-icons/omarchy.png" width="24" height="24" alt=""> [Omarchy](https://omarchy.org/) | Linux development environment and remote workflows |
 | Oct 30 | <img src="assets/feed-icons/treg.svg" width="24" height="24" alt=""> [Treg](https://treg.to/) | Comparing data-enrichment providers |
+| Oct 27 | <img src="assets/feed-icons/amp.png" width="24" height="24" alt=""> [Amp](https://ampcode.com/) | Setting up local agent execution on macOS |
+| Oct 21 | <img src="assets/feed-icons/ollama.png" width="24" height="24" alt=""> [Ollama](https://ollama.com/) | Running open models locally on Apple Silicon |
 
 [Website](https://www.signhill.com/serge/) · [Writing](https://www.signhill.com/serge/writing/) · [Get in touch](mailto:serge@signhill.com)
