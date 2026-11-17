@@ -10,9 +10,9 @@ Check out my content on [LinkedIn](https://www.linkedin.com/in/sergedoubinski/re
 
 | Date | Tool | What I'm using it for |
 | --- | --- | --- |
-| Nov 15 | [agent-desktop](https://github.com/vercel-labs/agent-desktop) | macOS virtual machines for agent automation |
-| Nov 15 | [SimSlim](https://github.com/MobAI-App/simslim) | Reducing iOS simulator resource usage |
-| Nov 14 | [WebMCP](https://github.com/webmachinelearning/webmcp) | Exposing website tools to browser agents |
+| Nov 15 | <img src="assets/feed-icons/agent-desktop.png" width="24" height="24" alt=""> [agent-desktop](https://github.com/vercel-labs/agent-desktop) | macOS virtual machines for agent automation |
+| Nov 15 | <img src="assets/feed-icons/simslim.png" width="24" height="24" alt=""> [SimSlim](https://github.com/MobAI-App/simslim) | Reducing iOS simulator resource usage |
+| Nov 14 | <img src="assets/feed-icons/webmcp.png" width="24" height="24" alt=""> [WebMCP](https://github.com/webmachinelearning/webmcp) | Exposing website tools to browser agents |
 | Nov 7 | <img src="assets/feed-icons/temporal.svg" width="24" height="24" alt=""> [Temporal self-hosted](https://docs.temporal.io/self-hosted-guide/deployment) | Durable workflow execution and automatic retries |
 | Nov 7 | <img src="assets/feed-icons/cloudflare.png" width="24" height="24" alt=""> [Cloudflare Tunnel + Access](https://developers.cloudflare.com/cloudflare-one/) | Secure access to private applications |
 | Oct 31 | <img src="assets/feed-icons/treg.svg" width="24" height="24" alt=""> [Treg REA growth skill](https://treg.to/skills/rea-growth/SKILL.md) | Researching acquisition channels and growth experiments |
